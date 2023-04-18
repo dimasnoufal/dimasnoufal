@@ -8,11 +8,9 @@
 
 <h3>Things I code with: </h3>
 <p>
-  
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-A833F6?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-A833F6?style=flat-square&logo=Java&logoColor=white" />
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </p>
 
 <h3>📈 My GitHub Stats: </h3>
