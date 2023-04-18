@@ -8,12 +8,6 @@
 
 <h3>Things I code with: </h3>
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<p>
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-  <img alt="React" src="![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)" 
-</p>
-
 
 <h3>📈 My GitHub Stats: </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=react" alt="dimasnoufal" />
