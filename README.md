@@ -25,3 +25,8 @@
 
 <h3>📈 My GitHub Stats: </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=react" alt="dimasnoufal" />
+
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
