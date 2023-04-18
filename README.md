@@ -1,6 +1,3 @@
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-
 <h1 align="center">Hey! Nice to see you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 
 <p align="center">
@@ -10,7 +7,9 @@
 <p>My name is Mohammad Dimas Noufal, I am Informatics Engineering Students from <b>Tangerang, Indonesia</b></p>
 
 <h3>Things I code with: </h3>
+<p>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" /></a>
+</p>
 
 <h3>📈 My GitHub Stats: </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=react" alt="dimasnoufal" />
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
