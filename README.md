@@ -7,6 +7,7 @@
 <p>My name is Mohammad Dimas Noufal, I am Informatics Engineering Students from <b>Tangerang, Indonesia</b></p>
 
 <h3>Things I code with: </h3>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <p>
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
