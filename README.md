@@ -8,7 +8,9 @@
 
 <h3>Things I code with: </h3>
 <p>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 </p>
 
 <h3>📈 My GitHub Stats: </h3>
