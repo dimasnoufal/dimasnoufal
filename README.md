@@ -6,7 +6,7 @@
 <h3>Welcome to my profile GitHub!</h3>
 <p>My name is Mohammad Dimas Noufal, I am Informatics Engineering Students from <b>Tangerang, Indonesia</b></p>
 
-<h4>Things I code with: </h4>
+<h3>Things I code with: </h3>
 
-<h4>📈 my github stats: </h4>
+<h3>📈 My GitHub Stats: </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=react" alt="dimasnoufal" />
