@@ -8,7 +8,7 @@
 
 <h3>Things I code with: </h3>
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=3DDC84" alt="Kotlin logo" title="Kotlin" height="25" />
 
 <h3>📈 My GitHub Stats: </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=react" alt="dimasnoufal" />
