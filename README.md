@@ -7,6 +7,9 @@
 <p>My name is Mohammad Dimas Noufal, I am Informatics Engineering Students from <b>Tangerang, Indonesia</b></p>
 
 <h3>Things I code with: </h3>
+<p>
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+</p>
 <img src="![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)" />
 
 <h3>📈 My GitHub Stats: </h3>
