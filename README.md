@@ -7,4 +7,4 @@
 <h3>Things I code with</h3>
 
 <h3>📈 my github stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=graywhite" alt="dimasnoufal" />
+<img src="https://github-readme-stats.vercel.app/api?username=dimasnoufal&show_icons=true&theme=transparent" alt="dimasnoufal" />
